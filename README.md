@@ -13,13 +13,12 @@ Getting Involved
 Send suggestions for changes to the Source Code OpenType font project maintainer,
 phunt@adobe.com, for consideration.
 
-
 Building
 ====
 
 Pre-built font binaries
 ----
-The font binaries are not part of the source files. They are provided in the [Downloads](https://github.com/adobe/Source-Code-Pro/downloads) section.
+The font binaries are not part of the source files. They are available on [SourceForge](https://sourceforge.net/projects/sourcecodepro.adobe/files/).
 
 
 Requirements
@@ -48,4 +47,11 @@ It builds all OTFs and TTFs, and can be executed by typing:
 
 	$ ./build.sh
 
+
+Installing
+====
+
+[Font Installation Instructions for Windows and Mac](http://www.adobe.com/type/browser/fontinstall/instructions_english.html)
+
+[Font Installation Instructions for Unix-based systems](https://github.com/adobe/source-code-pro/issues/17#issuecomment-8967116)
 
